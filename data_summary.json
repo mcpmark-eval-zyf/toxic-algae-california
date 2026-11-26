@@ -1,0 +1,11 @@
+{
+  "total_sites_studied": 42,
+  "study_period": "2023-2024",
+  "region": "California",
+  "contaminants_tracked": [
+    "microcystin",
+    "cylindrospermopsin",
+    "anatoxin-a"
+  ],
+  "monitoring_frequency": "monthly"
+}
